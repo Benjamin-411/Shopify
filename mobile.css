@@ -1,0 +1,216 @@
+@media screen and (max-width: 780px) {
+    html {
+        font-size: 50%;
+    }
+    .btn {
+        padding: 2.4rem 3.5rem;
+        font-size: 2rem;
+    }
+    .btn-g {
+        padding: 2.4rem 3.5rem;
+        font-size: 2rem;
+    }
+    #header .header {
+        height: 30%;
+    }
+    #header .header .logo h2 {
+        font-size: 2.5rem;
+    }
+    #header .header h1 {
+        font-size: 3rem;
+    }
+    #header .header h3 {
+        font-size: 3rem;
+    }
+    #header .header input {
+        height: 7rem;
+        width: 38rem;
+        margin-right: 1rem;
+        font-size: 2rem;
+    }
+    #header .header p {
+        font-size: 1.5rem;
+        padding: 4rem 0;
+        line-height: 1.5;
+    }
+    /* Main */
+    #main .main {
+        margin-top: 15rem;
+        padding: 0 4rem;
+    }
+    #main .main h3 {
+        font-weight: 500;
+    }
+    #main .main p {
+        font-size: 2.1rem;
+    }
+    #main .sponsor {
+        margin: 0 4rem;
+        display: block;
+        padding: 2rem 0;
+    }
+    #main .sponsor img {
+        padding: 2rem 2rem;
+        width: 20rem;
+        padding-bottom: 4rem;
+    }
+    #main .last h4 {
+        font-size: 2.4rem;
+        padding-bottom: 4rem;
+    }
+    #main .last p {
+        padding-bottom: 9rem;
+        font-size: 1.7rem;
+    }
+    footer {
+        margin-right: 3rem;
+    }
+    footer h3 {
+        font-size: 2rem;
+        letter-spacing: 1.4;
+    }
+}
+
+@media screen and (max-width: 749px) {
+    html {
+        font-size: 50%;
+    }
+    .btn {
+        padding: 2.4rem 3.5rem;
+        font-size: 2rem;
+    }
+    #header .header .head-pic {
+        display: none;
+    }
+    #header .header input {
+        width: 60rem;
+    }
+    #main .main {
+        display: block;
+        margin-top: 10rem;
+        margin-bottom: 15rem;
+    }
+    #main .main p {
+        margin-bottom: 5rem;
+    }
+    #main .last h4 {
+        margin-right: 1rem;
+    }
+    footer {
+        display: block;
+        text-align: center;
+        margin-left: 3rem;
+    }
+}
+
+@media screen and (max-width: 699px) {
+    html {
+        font-size: 50%;
+    }
+    #header .header input {
+        width: 40rem;
+    }
+    #main .sponsor img {
+        padding: 2rem 4rem;
+        width: 20rem;
+    }
+}
+
+@media screen and (max-width: 548px) {
+    html {
+        font-size: 50%;
+    }
+    #header .header input {
+        width: 30rem;
+    }
+    #main .sponsor img {
+        padding: 2rem;
+        width: 18rem;
+    }
+    #main .last h4 {
+        font-size: 2rem;
+    }
+    #main .last p {
+        font-size: 1.5ren;
+    }
+    #header .header p {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    html {
+        font-size: 50%;
+    }
+    #main .sponsor img {
+        width: 16rem;
+        padding: 2rem 4rem;
+    }
+    #main .last h4 {
+        font-size: 1.5rem;
+    }
+    #main .last p {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 452px) {
+    html {
+        font-size: 50%;
+    }
+    #header .header .detail {
+        display: block;
+    }
+    #header .header input {
+        width: 50rem;
+        margin-bottom: 3.5rem;
+    }
+    .btn {
+        padding: 2.4rem 19rem;
+        margin-right: 1rem;
+    }
+    #main .sponsor img {
+        width: 14rem;
+        padding: 2rem 3rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    html {
+        font-size: 50%;
+    }
+    #header .header input {
+        width: 40rem;
+    }
+    .btn {
+        padding: 2.4rem 14rem;
+    }
+    #header .header p {
+        padding: 2rem .5rem;
+    }
+}
+
+@media screen and (max-width: 401px) {
+    html {
+        font-size: 50%;
+    }
+    #header .header p {
+        font-size: 1.2rem;
+    }
+    #main .sponsor img {
+        width: 12rem;
+        padding: 2rem 3rem;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    #main .sponsor img {
+        width: 10rem;
+    }
+    #header .header input {
+        width: 32rem;
+    }
+    .btn {
+        padding: 2.4rem 10rem;
+    }
+}
